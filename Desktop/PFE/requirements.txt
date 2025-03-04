@@ -20,3 +20,4 @@ holidays
 
 ace_tools
 psycopg2-binary
+XlsxWriter
