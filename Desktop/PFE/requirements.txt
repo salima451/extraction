@@ -1,0 +1,22 @@
+# Core Libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+openpyxl
+xlrd
+
+
+# Feature Engineering & Data Cleaning
+category_encoders
+streamlit
+hl7
+pymysql
+holidays
+
+ace_tools
+psycopg2
